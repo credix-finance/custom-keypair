@@ -1,3 +1,6 @@
+# Goal
+Generate a keypair for which the string version of the public key starts with specific letters. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
